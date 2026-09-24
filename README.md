@@ -296,9 +296,3 @@ The-escape-From-Death/
 El desarrollo del prototipo comenzará después de establecer la estructura del repositorio y validar el diseño inicial.
 
 ---
-
-## 🔗 Repositorio
-
-Repositorio oficial del proyecto:
-
-**https://github.com/AlanZentenoPaz/The-escape-From-Death-.git**
