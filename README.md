@@ -2,7 +2,7 @@
 
 Videojuego 3D de supervivencia y escape desarrollado como parte del **Proyecto 0: Equipo y diseño preliminar del juego**.
 
-## 🎮 Descripción del proyecto
+##Descripción del proyecto
 
 **The Escape From Death** es un videojuego 3D de supervivencia y escape para un jugador. El jugador controla a un sobreviviente que debe explorar un bosque industrial abandonado, reparar **tres generadores** y escapar por una puerta de salida mientras evita a un enemigo controlado por inteligencia artificial.
 
@@ -10,7 +10,7 @@ El objetivo principal es completar los tres generadores, utilizar estratégicame
 
 ---
 
-## 👥 Equipo
+##Equipo
 
 | Integrante                           | Responsabilidad principal          |
 | ------------------------------------ | ---------------------------------- |
@@ -23,7 +23,7 @@ Cada integrante cuenta con una responsabilidad principal, pero el desarrollo se 
 
 ---
 
-## 🔄Bucle central
+##Bucle central
 
 El bucle principal del juego es:
 
@@ -39,9 +39,9 @@ Cuando los tres generadores están completos, la puerta de salida se desbloquea.
 
 Existen **3 cofres**, cada uno con un recurso diferente:
 
-* 🔦 **Granada de luz:** aturde temporalmente al enemigo.
-* ⚙️ **Pieza de generador:** añade **50 % de progreso** a un generador.
-* 💉 **Jeringa:** recupera toda la vida perdida.
+* **Granada de luz:** aturde temporalmente al enemigo.
+* **Pieza de generador:** añade **50 % de progreso** a un generador.
+* **Jeringa:** recupera toda la vida perdida.
 
 Cada recurso tiene un único uso.
 
@@ -64,7 +64,7 @@ El enemigo está controlado mediante inteligencia artificial y cuenta con difere
 
 ---
 
-## 🏆 Condiciones de victoria y derrota
+##Condiciones de victoria y derrota
 
 ### Victoria
 
@@ -80,7 +80,7 @@ El jugador pierde cuando la vida del sobreviviente llega a **cero**.
 
 ---
 
-## 🎮 Controles
+##Controles
 
 | Tecla             | Acción          |
 | ----------------- | --------------- |
@@ -94,7 +94,7 @@ El jugador podrá seleccionar entre un personaje masculino y uno femenino. Ambos
 
 ---
 
-## 🗺️ Nivel
+##Nivel
 
 El prototipo contará con **un único escenario de tamaño reducido**, inspirado visualmente en un bosque industrial abandonado, pero con diseño propio.
 
@@ -111,7 +111,7 @@ El escenario incluirá:
 
 ---
 
-## 🤖 Agentes autónomos
+##Agentes autónomos
 
 El prototipo incorporará al menos **15 agentes autónomos**:
 
@@ -131,7 +131,7 @@ El objetivo inicial será mantener **30 FPS estables** y posteriormente optimiza
 
 ---
 
-## 🛠️ Tecnologías
+##Tecnologías
 
 * **Motor:** Godot Engine 4.7.2
 * **Lenguaje:** GDScript
@@ -141,7 +141,7 @@ Godot será utilizado por su soporte para desarrollo 3D, navegación de agentes,
 
 ---
 
-## 💻 Hardware de desarrollo
+##Hardware de desarrollo
 
 | Equipo   | Hardware                                         |
 | -------- | ------------------------------------------------ |
@@ -156,7 +156,7 @@ El proyecto será probado en los diferentes equipos disponibles para comprobar s
 
 ---
 
-## 📌 Alcance mínimo
+##Alcance mínimo
 
 El prototipo debe incluir:
 
@@ -173,7 +173,7 @@ El prototipo debe incluir:
 
 ---
 
-## 🚀 Posibles ampliaciones
+##Posibles ampliaciones
 
 Las siguientes características quedan fuera del alcance mínimo y podrán desarrollarse posteriormente:
 
@@ -188,7 +188,7 @@ Las siguientes características quedan fuera del alcance mínimo y podrán desar
 
 ---
 
-## ⚠️ Riesgos y reducción de alcance
+##Riesgos y reducción de alcance
 
 | Riesgo                                         | Reducción de alcance                                                                                 |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -199,7 +199,7 @@ Las siguientes características quedan fuera del alcance mínimo y podrán desar
 
 ---
 
-## 🤖 Uso de inteligencia artificial
+##Uso de inteligencia artificial
 
 El proyecto contempla tres formas de utilización de IA:
 
@@ -230,7 +230,7 @@ El enemigo **no dependerá de un LLM durante la ejecución del juego**.
 
 ---
 
-## ✅ Criterios de aceptación
+##Criterios de aceptación
 
 El prototipo deberá cumplir con los siguientes criterios:
 
@@ -252,7 +252,7 @@ El prototipo deberá cumplir con los siguientes criterios:
 
 ---
 
-## 📂 Organización del repositorio
+##Organización del repositorio
 
 Se propone mantener una estructura organizada para facilitar el desarrollo:
 
@@ -289,7 +289,7 @@ The-escape-From-Death/
 
 ---
 
-## 📈 Estado del proyecto
+##Estado del proyecto
 
 **Fase actual:** Diseño preliminar.
 
